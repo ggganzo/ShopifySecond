@@ -19,6 +19,7 @@ public class MainSpec {
 
         boolean result = main.methodToTest();
         Assertions.assertTrue(result);
+
     }
 
     @Test
